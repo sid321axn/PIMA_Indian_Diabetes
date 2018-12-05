@@ -36,17 +36,17 @@ It is a binary (2-class) classification problem. The number of observations for 
 
 **Features**:
 
--**Pregnancies** - Number of times pregnant
--**Glucose** - Plasma glucose concentration a 2 hours in an oral glucose tolerance testPlasma glucose concentration a 2 hours in an oral glucose tolerance test.
--**BloodPressure**- Diastolic blood pressure (mm Hg).
--**SkinThickness**- Triceps skinfold thickness (mm).
--**Insulin**- 2-Hour serum insulin (mu U/ml).
--**BMI**- Body mass index (weight in kg/(height in m)^2).
--**DiabetesPedigreeFunction**- Diabetes pedigree function.
--**Age**- Age in years.
+- **Pregnancies** - Number of times pregnant
+- **Glucose** - Plasma glucose concentration a 2 hours in an oral glucose tolerance testPlasma glucose concentration a 2 hours in an oral glucose tolerance test.
+- **BloodPressure**- Diastolic blood pressure (mm Hg).
+- **SkinThickness**- Triceps skinfold thickness (mm).
+- **Insulin**- 2-Hour serum insulin (mu U/ml).
+- **BMI**- Body mass index (weight in kg/(height in m)^2).
+- **DiabetesPedigreeFunction**- Diabetes pedigree function.
+- **Age**- Age in years.
 
 **Target Variable :**
--**Outcome** - Class variable 1 if patient has diagnosed diabetes and 0 if not.
+- **Outcome** - Class variable 1 if patient has diagnosed diabetes and 0 if not.
 
 ## Steps to be Followed :
 Following steps I have taken to apply machine learning models:
